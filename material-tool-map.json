@@ -1,0 +1,2216 @@
+[
+  {
+    "material": {
+      "en": "Concrete",
+      "de": "Beton"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Screed",
+        "de": "Estrich"
+      },
+      {
+        "en": "Concrete",
+        "de": "Beton"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Mason",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 20.1 R + MG 140 Mixer",
+          "de": "EHR 20.1 R + MG 140 Rührset"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/59ad56a26f78beb90ce1635230e2a72e601b8a9f_07742000_P1.jpg",
+        "specs": {
+          "en": "2300 W, 2-speed, for heavy mixes up to 90 liters",
+          "de": "2300 W, 2-Gang, für schwere Mischungen bis 90 Liter"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/elektrowerkzeuge#/Mischen/07742000"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Screed",
+      "de": "Estrich"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Screed",
+        "de": "Estrich"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Flooring",
+        "de": "Bodenbelag"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 20/2.4 S Mixer",
+          "de": "EHR 20/2.4 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "1800 W, 2-speed, for screed and flow screed",
+          "de": "1800 W, 2-Gang, für Estrich und Fließestrich"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-20-2-4-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Tile Adhesive",
+      "de": "Fliesenkleber"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Adhesive",
+        "de": "Kleber"
+      },
+      {
+        "en": "Tile Adhesive",
+        "de": "Fliesenkleber"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Tiling",
+        "de": "Fliesenlegen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "1800 W, 1-speed, for adhesives and mortars",
+          "de": "1800 W, 1-Gang, für Kleber und Mörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cement Mortar",
+      "de": "Zementmörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Cement Mortar",
+        "de": "Zementmörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "Powerful forced mixer for tough mortars",
+          "de": "Leistungsstarkes Zwangsrührwerk für zähe Mörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Gypsum Plaster",
+      "de": "Gipsputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Gypsum Plaster",
+        "de": "Gipsputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "1500 W, 1-speed, for plasters and fillers",
+          "de": "1500 W, 1-Gang, für Putze und Spachtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Self-Leveling Compound",
+      "de": "Nivelliermasse"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Self-Leveling Compound",
+        "de": "Nivelliermasse"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Flooring",
+        "de": "Bodenbelag"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "1800 W, 1-speed, for fluid and self-leveling compounds",
+          "de": "1800 W, 1-Gang, für flüssige und selbstverlaufende Massen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Epoxy Resin",
+      "de": "Epoxidharz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Synthetic",
+        "de": "Synthetisch"
+      },
+      {
+        "en": "Epoxy Resin",
+        "de": "Epoxidharz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Coating",
+        "de": "Beschichtung"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "1500 W, 1-speed, for resins and coatings",
+          "de": "1500 W, 1-Gang, für Harze und Beschichtungen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Bitumen",
+      "de": "Bitumen"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Bituminous",
+        "de": "Bituminös"
+      },
+      {
+        "en": "Bitumen",
+        "de": "Bitumen"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Roofing",
+        "de": "Dachdecker"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For heavy, sticky bitumen and asphalt mixes",
+          "de": "Für schwere, klebrige Bitumen- und Asphaltmischungen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cement Slurry",
+      "de": "Zementschlämme"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Cement Slurry",
+        "de": "Zementschlämme"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For liquid and semi-liquid cement slurries",
+          "de": "Für flüssige und halbfeste Zementschlämmen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Joint Filler",
+      "de": "Fugenspachtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Joint Filler",
+        "de": "Fugenspachtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Tiling",
+        "de": "Fliesenlegen"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For joint fillers and fine putties",
+          "de": "Für Fugenspachtel und Feinspachtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Leveling Mortar",
+      "de": "Ausgleichsmörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Leveling Mortar",
+        "de": "Ausgleichsmörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Flooring",
+        "de": "Bodenbelag"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 20/2.4 S Mixer",
+          "de": "EHR 20/2.4 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For leveling mortars and screeds",
+          "de": "Für Ausgleichsmörtel und Estriche"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-20-2-4-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Adhesive Mortar",
+      "de": "Klebemörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Adhesive",
+        "de": "Kleber"
+      },
+      {
+        "en": "Mortar",
+        "de": "Mörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Tiling",
+        "de": "Fliesenlegen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For adhesive mortars and tile adhesives",
+          "de": "Für Klebemörtel und Fliesenkleber"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Lime Plaster",
+      "de": "Kalkputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Lime Plaster",
+        "de": "Kalkputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For lime and lime-cement plasters",
+          "de": "Für Kalk- und Kalkzementputze"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cement Screed",
+      "de": "Zementestrich"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Cement Screed",
+        "de": "Zementestrich"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 20/2.4 S Mixer",
+          "de": "EHR 20/2.4 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For cement screeds and heavy mortars",
+          "de": "Für Zementestriche und schwere Mörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-20-2-4-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Ready-Mixed Concrete",
+      "de": "Fertigbeton"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Ready-Mixed Concrete",
+        "de": "Fertigbeton"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 23/2.3 S Two-Speed Mixer",
+          "de": "EHR 20.1 R + MG 140 Rührset"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/59ad56a26f78beb90ce1635230e2a72e601b8a9f_07742000_P1.jpg",
+        "specs": {
+          "en": "For ready-mixed and site-mixed concrete",
+          "de": "Für Fertig- und Ortbeton"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/elektrowerkzeuge#/Mischen/07742000"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Repair Mortar",
+      "de": "Reparaturmörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Repair Mortar",
+        "de": "Reparaturmörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For repair mortars and patching compounds",
+          "de": "Für Reparaturmörtel und Ausbesserungsmassen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Floor Filler",
+      "de": "Bodenspachtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Floor Filler",
+        "de": "Bodenspachtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Flooring",
+        "de": "Bodenbelag"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For floor fillers and leveling compounds",
+          "de": "Für Bodenspachtel und Nivelliermassen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Lightweight Concrete",
+      "de": "Leichtbeton"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Lightweight Concrete",
+        "de": "Leichtbeton"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 23/2.3 S Two-Speed Mixer",
+          "de": "EHR 20.1 R + MG 140 Rührset"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/59ad56a26f78beb90ce1635230e2a72e601b8a9f_07742000_P1.jpg",
+        "specs": {
+          "en": "For lightweight and insulating concretes",
+          "de": "Für Leicht- und Dämmstoffe"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/elektrowerkzeuge#/Mischen/07742000"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Insulation Mortar",
+      "de": "Dämmputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Insulation Mortar",
+        "de": "Dämmputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For insulation mortars and plasters",
+          "de": "Für Dämmputze und Leichtmörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Fireproof Mortar",
+      "de": "Feuerschutzmörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Fireproof Mortar",
+        "de": "Feuerschutzmörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For fireproof and refractory mortars",
+          "de": "Für Feuerfeste und Schamottemörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Polymer Mortar",
+      "de": "Polymermörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Polymer",
+        "de": "Polymer"
+      },
+      {
+        "en": "Mortar",
+        "de": "Mörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For polymer and special mortars",
+          "de": "Für Polymer- und Spezialmörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Casting Resin",
+      "de": "Gießharz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Synthetic",
+        "de": "Synthetisch"
+      },
+      {
+        "en": "Casting Resin",
+        "de": "Gießharz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Coating",
+        "de": "Beschichtung"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For casting resins and liquid plastics",
+          "de": "Für Gießharze und Flüssigkunststoffe"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cementitious Adhesive",
+      "de": "Zementkleber"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Adhesive",
+        "de": "Kleber"
+      },
+      {
+        "en": "Cementitious",
+        "de": "Zementär"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Tiling",
+        "de": "Fliesenlegen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For cement-based adhesives",
+          "de": "Für zementbasierte Kleber"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Gypsum Filler",
+      "de": "Gipsspachtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Gypsum Filler",
+        "de": "Gipsspachtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For gypsum fillers and plasters",
+          "de": "Für Gipsspachtel und Putze"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cement Grout",
+      "de": "Zementfuge"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Cement Grout",
+        "de": "Zementfuge"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Tiling",
+        "de": "Fliesenlegen"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For cement grouts and joint mortars",
+          "de": "Für Zementfugen und Fugenmörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Plasterboard Filler",
+      "de": "Gipskartonspachtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Plasterboard Filler",
+        "de": "Gipskartonspachtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For plasterboard and drywall fillers",
+          "de": "Für Gipskarton- und Trockenbauspachtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Floor Leveling Compound",
+      "de": "Bodenausgleichsmasse"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Floor Leveling Compound",
+        "de": "Bodenausgleichsmasse"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Flooring",
+        "de": "Bodenbelag"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For floor leveling and smoothing compounds",
+          "de": "Für Bodenausgleichs- und Glättmassen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Masonry Mortar",
+      "de": "Mauermörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Masonry Mortar",
+        "de": "Mauermörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For masonry and bricklaying mortars",
+          "de": "Für Mauer- und Versetzmörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Restoration Plaster",
+      "de": "Sanierputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Restoration Plaster",
+        "de": "Sanierputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For restoration and renovation plasters",
+          "de": "Für Sanier- und Renovierputze"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cement Render",
+      "de": "Zementputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Cement Render",
+        "de": "Zementputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 20/2.4 S Mixer",
+          "de": "EHR 20/2.4 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For cement renders and heavy plasters",
+          "de": "Für Zementputze und schwere Putze"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-20-2-4-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Synthetic Resin Plaster",
+      "de": "Kunstharzputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Synthetic",
+        "de": "Synthetisch"
+      },
+      {
+        "en": "Resin Plaster",
+        "de": "Harzputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For synthetic resin and dispersion plasters",
+          "de": "Für Kunstharz- und Dispersionsputze"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Lightweight Filler",
+      "de": "Leichtspachtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Lightweight Filler",
+        "de": "Leichtspachtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For lightweight and special fillers",
+          "de": "Für Leicht- und Spezialspachtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Cementitious Leveling Compound",
+      "de": "Zementausgleichsmasse"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Cementitious Leveling Compound",
+        "de": "Zementausgleichsmasse"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Flooring",
+        "de": "Bodenbelag"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For cement-based leveling compounds",
+          "de": "Für zementbasierte Ausgleichsmassen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Exterior Plaster",
+      "de": "Außenputz"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Exterior Plaster",
+        "de": "Außenputz"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Plastering",
+        "de": "Putzarbeiten"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 20/2.4 S Mixer",
+          "de": "EHR 20/2.4 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For exterior and facade plasters",
+          "de": "Für Außen- und Fassadenputze"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-20-2-4-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Facade Paint",
+      "de": "Fassadenfarbe"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Paint",
+        "de": "Farbe"
+      },
+      {
+        "en": "Facade Paint",
+        "de": "Fassadenfarbe"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Painting",
+        "de": "Malen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For facade and exterior paints",
+          "de": "Für Fassaden- und Außenfarben"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Dispersion Paint",
+      "de": "Dispersionsfarbe"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Paint",
+        "de": "Farbe"
+      },
+      {
+        "en": "Dispersion Paint",
+        "de": "Dispersionsfarbe"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Painting",
+        "de": "Malen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For dispersion and emulsion paints",
+          "de": "Für Dispersions- und Emulsionsfarben"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Primer",
+      "de": "Grundierung"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Paint",
+        "de": "Farbe"
+      },
+      {
+        "en": "Primer",
+        "de": "Grundierung"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Painting",
+        "de": "Malen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 15.1 S Mixer",
+          "de": "EHR 15.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For primers and bonding agents",
+          "de": "Für Grundierungen und Haftbrücken"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-15-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Sealing Slurry",
+      "de": "Dichtschlämme"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Sealing Slurry",
+        "de": "Dichtschlämme"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Waterproofing",
+        "de": "Abdichtung"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For sealing slurries and waterproofing compounds",
+          "de": "Für Dichtschlämmen und Abdichtmassen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Bituminous Coating",
+      "de": "Bitumenbeschichtung"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Bituminous",
+        "de": "Bituminös"
+      },
+      {
+        "en": "Coating",
+        "de": "Beschichtung"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Roofing",
+        "de": "Dachdecker"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For bituminous and thick coatings",
+          "de": "Für Bitumen- und Dickbeschichtungen"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Thin-Bed Mortar",
+      "de": "Dünnbettmörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Thin-Bed Mortar",
+        "de": "Dünnbettmörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Tiling",
+        "de": "Fliesenlegen"
+      },
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EHR 18.1 S Mixer",
+          "de": "EHR 18.1 S Rührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/0c8701e87d3cb0989b05653291cea7e968127e17_07617000_P1.jpg",
+        "specs": {
+          "en": "For thin-bed mortars and adhesives",
+          "de": "Für Dünnbettmörtel und Kleber"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/mischmaschinen/ehr-18-1-s/"
+      }
+    ]
+  },
+  {
+    "material": {
+      "en": "Restoration Mortar",
+      "de": "Saniermörtel"
+    },
+    "manufacturer": [
+      {
+        "en": "Ardex",
+        "de": "Ardex"
+      },
+      {
+        "en": "Mapei",
+        "de": "Mapei"
+      },
+      {
+        "en": "PCI",
+        "de": "PCI"
+      }
+    ],
+    "type": [
+      {
+        "en": "Mineral",
+        "de": "Mineralisch"
+      },
+      {
+        "en": "Restoration Mortar",
+        "de": "Saniermörtel"
+      }
+    ],
+    "craft": [
+      {
+        "en": "Masonry",
+        "de": "Maurer"
+      },
+      {
+        "en": "Floor Layer",
+        "de": "Bodenleger"
+      }
+    ],
+    "tools": [
+      {
+        "name": {
+          "en": "EZR 24 R/L Forced Mixer",
+          "de": "EZR 24 R/L Zwangsrührwerk"
+        },
+        "image": "https://www.eibenstock.com/src/api/produkte/media/8b00a41f3233eaabb77c3e9d4c21ea9fda2cdbd8_0774W000_P1.jpg",
+        "specs": {
+          "en": "For restoration and renovation mortars",
+          "de": "Für Sanier- und Renoviermörtel"
+        },
+        "link": "https://www.eibenstock.com/de/produkte/mischtechnik/zwangs-ruehrwerke/ezr-24-r-l/"
+      }
+    ]
+  }
+]
